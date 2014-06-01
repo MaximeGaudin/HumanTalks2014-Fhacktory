@@ -1,0 +1,14 @@
+dist/
+*.aux
+*.nav
+*.out
+*.snm
+*.bak
+*.toc
+missfont
+.*.swp
+*.dvi
+*.log
+*.pdf
+*.gz
+*.db
